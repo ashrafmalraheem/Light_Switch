@@ -4,8 +4,8 @@ This Project is part of Analog Electronics Course at University of Khartoum. For
 ## Specification:
     - Response time 5min.
     - Affected by Sun light only.
-    - Operating Voltage 230V a.c.
-    - Maximum Current 10A. 
+    - Operating Voltage 180-230V a.c.
+    - Maximum Current 16A. 
     - Operating Temperature 0 - 60 degree centegrade. 
     - IP55
     - Indicators for the state of operation.
